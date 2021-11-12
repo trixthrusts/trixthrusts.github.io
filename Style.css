@@ -179,3 +179,18 @@ input[name="r"]{
 	}
 	
 }
+
+/*--idea--*/
+.idea{
+	background: #000000;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	padding-top: 200px;
+
+}
+.idea h4{
+	font-size: 30px;
+	font-weight: 600;
+	color: #fff;
+}
